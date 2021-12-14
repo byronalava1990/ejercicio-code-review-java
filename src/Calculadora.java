@@ -29,6 +29,7 @@ public class Calculadora {
         //double es para un valor con punto decimal
         double resul = 0;
         resul = num1 / num2;
+        // TODO Si no va a realizar ninguna acción adicional con la variable result se la puede omitir y retornar directamente el valor de la operación realizada.
         return resul;
     }
 

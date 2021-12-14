@@ -1,4 +1,7 @@
 public class Utilitarios {
+    /*
+	 TODO como buena practica los nombres de los métodos deberian estar todos en un solo idioma. B.A  
+	 */
     public int average(int params[]) {
         int avg = 0;
         for (int i = 0; i < params.length; i++) {
